@@ -14,3 +14,11 @@
 // //     backDelay :1000,
 
 // })
+
+var typed = new Typed((".auto-type"),{
+    strings : [""],
+    typeSpeed : 100,
+    backSpeed : 100,
+    backDelay : 1000,
+
+})
